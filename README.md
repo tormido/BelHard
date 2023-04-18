@@ -1,2 +1,2 @@
-# BelHard
+# Welcome Git
 just training repo
