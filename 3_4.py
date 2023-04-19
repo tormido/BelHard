@@ -1,0 +1,6 @@
+print("Please, input first number: ")
+first = input()
+print("Please, input second number: ")
+second = input()
+print("Please, input third number: ")
+third = input()
