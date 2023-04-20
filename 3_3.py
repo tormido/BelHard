@@ -14,3 +14,5 @@ print('Hello ' + name + ' ' + age + ' y.o. from ' + city)
 print('Hi, are you %s %s y.o. from %s ?' % (name, age, city))
 # opt 3
 print('Hello {fname} {uage} y.o. from {ucity}'.format(fname=name, uage=age, ucity=city))
+# opt 4
+print(f'So, {name},do you think if you live in {city} at you {age} you are so cool?')
