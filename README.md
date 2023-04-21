@@ -1,2 +1,2 @@
 # Welcome Git
-just training repo
+just training repo 

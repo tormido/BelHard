@@ -1,20 +1,21 @@
+# Пользователь вводит 3 числа, найти среднее арифметическое с точностью 3
 while True:
     try:
-        a = int(input("Please, input first number: "))
+        a = float(input("Please, input first number: "))
     except ValueError:
         print("it's not a number.")
     else:
         break
 while True:
     try:
-        b = int(input("Please, input second number: "))
+        b = float(input("Please, input second number: "))
     except ValueError:
         print("it's not a number.")
     else:
         break
 while True:
     try:
-        c = int(input("Please, input third number: "))
+        c = float(input("Please, input third number: "))
     except ValueError:
         print("it's not a number.")
     else:
